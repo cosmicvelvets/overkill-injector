@@ -1,6 +1,8 @@
+
 # overkill-injector
-bleemsync just got syncier
-km cores by KMFDManic
+super happy plug-n-play multi-machine fun time
+
+>km cores by KMFDManic
 stable cores by libretro
 carousel themes by u/spizer
 custom boot menu by u/JSamsqwamch
